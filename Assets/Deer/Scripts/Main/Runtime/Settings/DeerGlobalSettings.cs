@@ -94,8 +94,8 @@ public class ServerChannelInfo
 public class DeerGlobalSettings : ScriptableObject
 {
     [Header("General")] 
-    [Sirenix.OdinInspector.ReadOnly]
-    public bool m_UseDeerExample;
+    [SerializeField]
+    public bool m_UseDeerExample = true;
 
     [Header("Framework")]
     [SerializeField]

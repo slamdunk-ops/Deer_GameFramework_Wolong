@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2884b9adb9d3e644f8e0e617f02e7222, type: 3}
   m_Name: DeerGlobalSettings
   m_EditorClassIdentifier: 
-  m_UseDeerExample: 0
+  m_UseDeerExample: 1
   m_ScriptAuthor: AlanDu
   m_ScriptVersion: 0.1
   m_AppStage: 1
@@ -25,6 +25,7 @@ MonoBehaviour:
     m_CleanCommitPathRes: 1
     m_ServerType: 2
     m_InnerResourceSourceUrl: http://121.4.195.168:8088
+    m_ExtraResourceSourceUrl: http://121.4.195.168:8088
     m_FormalResourceSourceUrl: http://121.4.195.168:8088
   m_ResourceVersionFileName: ResourceVersion.txt
   WindowsAppUrl: 
